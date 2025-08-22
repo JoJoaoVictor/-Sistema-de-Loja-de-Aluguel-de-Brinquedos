@@ -1,4 +1,5 @@
-Sistema de Loja de Aluguel de Brinquedos
+🎪Sistema de Loja de Aluguel de Brinquedos
+<br/>
 <br/>
 📋 Descrição
 Sistema desenvolvido em Java para gerenciamento de uma loja especializada em aluguel de brinquedos. O projeto implementa um sistema completo de locação com interface gráfica utilizando JOptionPane, permitindo cadastro de clientes, funcionários e controle de aluguéis com opção de entrega.
